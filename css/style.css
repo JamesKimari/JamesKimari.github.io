@@ -21,3 +21,11 @@ em {
   font-style: normal;
   font-weight: bold;
 }
+.details {
+  list-style-type: square;
+}
+h3 {
+  font-size:18px;
+  color: dodgerblue;
+  padding: inherit;
+}

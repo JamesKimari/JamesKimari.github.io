@@ -31,11 +31,49 @@ h3 {
 .jumbotron {
   padding-bottom: 60px;
 }
-.fa-facebook {
-  background-color: blue;
-  color: white;
-  padding: 10px;
-}
-.fa-facebook i {
+.social-media {
   font-size: 20px;
+  list-style-type: none;
+  color: white;
+}
+.social-media p {
+  display: block;
+  color: white;
+  text-align: left;
+  padding: 10px 15px;
+  text-decoration: none;
+  position: absolute;
+}
+.fa-facebook {
+  background-color: #3B5998;
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.fa-facebook:hover {
+  padding: 20px 20px;
+  transition: .3s;
+}
+.fa-instagram {
+  background-color: #C32AA3;
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.fa-google {
+  background-color: #DF4A32;
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.fa-phone {
+  background-color: dodgerblue;
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.fa-github {
+  background-color: #333;
+  padding: 10px;
+  margin-bottom: 0;
 }

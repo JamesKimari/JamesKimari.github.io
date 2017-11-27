@@ -1,0 +1,18 @@
+.navbar {
+  background-color: dodgerblue;
+}
+.navbar-brand {
+  color: white;
+}
+.navbar-brand:hover {
+  text-decoration: none;
+  color: black;
+}
+.nav-link:hover {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+.nav-link {
+  color: white;
+}

@@ -13,4 +13,6 @@
 * css3
 * Bootstrap4
 ## Support and contact details
-* Mobile number: 
+* Mobile number: (254) 714307232
+* Email Address: jamesgkimari@gmail.com
+### LICENSE

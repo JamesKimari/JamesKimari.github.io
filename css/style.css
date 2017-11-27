@@ -16,13 +16,11 @@
 .nav-link {
   color: white;
 }
-em {
-  color: dodgerblue;
-  font-style: normal;
-  font-weight: bold;
-}
-.details {
+.details em{
   list-style-type: square;
+  font-style: normal;
+  color: dodgerblue;
+  font-weight: bold;
 }
 h3 {
   font-size:18px;
@@ -81,4 +79,12 @@ h3 {
 }
 .li {
     float: left;
+}
+.footer em {
+  text-align: center;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-style: normal;
+  color: dodgerblue;
+  font-weight: bold;
 }

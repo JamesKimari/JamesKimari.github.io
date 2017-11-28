@@ -94,7 +94,7 @@ h3 {
 }
 .bg-light {
   color: dodgerblue !important;
-  background-color: dodgerblue !important;
+  background: dodgerblue !important;
 }
 .navbar-light .navbar-brand {
   color: rgba(255, 255, 255, 1);
